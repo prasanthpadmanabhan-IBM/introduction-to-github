@@ -49,7 +49,7 @@ endstep0-->
 -->
 
 <details id=1>
-<summary><h2>Step 1: Create a workflow file</h2></summary>
+<summary><h2>Step 1: Create a workflow file :-) </h2></summary>
 
 _Welcome to "Hello GitHub Actions"! :wave:_
 
